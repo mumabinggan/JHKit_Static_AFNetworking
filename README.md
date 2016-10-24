@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center" >
   <img src="https://raw.github.com/AFNetworking/AFNetworking/assets/afnetworking-logo.png" alt="AFNetworking" title="AFNetworking">
 </p>
@@ -320,3 +321,6 @@ If you believe you have identified a security vulnerability with AFNetworking, y
 ## License
 
 AFNetworking is released under the MIT license. See LICENSE for details.
+=======
+# JHKit_Static_AFNewworking
+>>>>>>> 0d2987aacba3a8b963689991d181827b90b9aed2
